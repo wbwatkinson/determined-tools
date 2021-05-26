@@ -1,0 +1,4 @@
+description: my-efs-demo
+bind_mounts:
+  - host_path: /mnt/efs
+    container_path: /home

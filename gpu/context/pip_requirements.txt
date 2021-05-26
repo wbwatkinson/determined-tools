@@ -1,0 +1,15 @@
+# numpy==1.20.3
+# matplotlib==3.4.2
+# pandas==1.2.4
+# scikit-learn==0.24.2
+# seaborn==0.11.1
+# testbook==0.4.0
+# ipython==7.23.1
+# ipykernel==5.5.5
+# keras==2.4.3
+# # jupyterlab==3.0.16
+# scikit-image==0.18.1
+# pytest==6.2.4
+# pip==21.1.1
+# opencv-python==4.5.2.52
+# tensorflow==2.5.0
